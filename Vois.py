@@ -44,4 +44,8 @@ if st.button("Check Traffic"):
     if prediction == 1:
         st.error("⚠️ Intrusion Detected!")
     else:
-        st.success("✅ Normal Traffic")
+        st.success("✅ Normal Traffic")  
+
+# Type "python -m streamlit run "Vois.py" " in terminal to run a program
+
+
