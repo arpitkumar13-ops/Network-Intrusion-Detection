@@ -46,6 +46,6 @@ if st.button("Check Traffic"):
     else:
         st.success("✅ Normal Traffic")  
 
-# Type "python -m streamlit run "Vois.py" " in terminal to run a program
+
 
 
