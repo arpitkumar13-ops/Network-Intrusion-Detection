@@ -55,3 +55,4 @@ if st.button("Check Traffic"):
         st.success("Normal Traffic")
     else:
         st.error("Intrusion Detected")
+
