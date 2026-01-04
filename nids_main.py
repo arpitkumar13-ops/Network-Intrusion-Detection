@@ -42,9 +42,10 @@ if st.button("Check Traffic"):
     prediction = np.random.choice([0, 1])
 
     if prediction == 1:
-        st.error("⚠️ Intrusion Detected!")
+        st.error("Intrusion Detected!")
     else:
-        st.success("✅ Normal Traffic")  
+        st.success("Normal Traffic")  
+
 
 
 
